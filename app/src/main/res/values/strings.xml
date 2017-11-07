@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SmimAndroid</string>
+
+    <string name="typeface_not_found">Typeface %s not found, or could not be loaded. Showing default typeface.</string>
+
+    <string name="network_error">네트워크 연결를 확인하신 후, 재시도 해주세요.</string>
+
+
+
+    <!-- 공통 -->
+    <string name="dialog_wait">잠시만 기다려주세요.</string>
+    <string name="confirm">확인</string>
+    <string name="no">아니요</string>
+    <string name="won">원</string>
+    <string name="gun">건</string>
+    <string name="save">저장</string>
+    <string name="notice">알림</string>
+    <string name="cancel">취소</string>
+    <string name="more">더 보기</string>
+    <string name="authority_agree_contents">권한사용을 동의해주셔야 이용이 가능합니다.</string>
+    <string name="version_update_contents">새로운 버전이 있습니다.\n앱을 업데이트 해주세요.</string>
+    <string name="dialog_phototake">사진 촬영</string>
+    <string name="dialog_photoalbum">앨범 선택</string>
+    <string name="hint_comment">댓글 추가</string>
+
+
+</resources>

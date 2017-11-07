@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+	<!-- selected -->
+    <item android:drawable="@color/red_f26b6b" android:state_selected="true"/>
+	
+    <!-- default -->
+    <item android:drawable="@color/gray_cccccc"/>
+
+</selector>
