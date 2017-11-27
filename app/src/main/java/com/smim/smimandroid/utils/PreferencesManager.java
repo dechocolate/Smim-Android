@@ -6,7 +6,7 @@ import android.content.SharedPreferences;
 
 import com.smim.smimandroid.Const;
 import com.smim.smimandroid.R;
-import com.smim.smimandroid.dto.UserInfo;
+import com.smim.smimandroid.data.UserInfo;
 
 
 /**

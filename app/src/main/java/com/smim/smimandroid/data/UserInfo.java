@@ -1,6 +1,5 @@
-package com.smim.smimandroid.dto;
+package com.smim.smimandroid.data;
 
-import java.io.File;
 import java.io.Serializable;
 
 /**

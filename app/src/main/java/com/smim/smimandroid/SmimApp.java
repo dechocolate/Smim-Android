@@ -7,11 +7,17 @@ import android.content.SharedPreferences;
 import android.graphics.Typeface;
 import android.os.AsyncTask;
 
+import com.sendbird.android.SendBird;
+
 
 /**
  * Created by kakoapps on 2016-01-27.
  */
 public class SmimApp extends Application implements Const {
+
+    private static final String APP_ID = "9DA1B1F4-0BE6-4DA8-82C5-2E81DAB56F23"; // US-1 Demo
+    public static final String VERSION = "3.0.42";
+
 
     private static SmimApp appInstance;
 
@@ -31,6 +37,7 @@ public class SmimApp extends Application implements Const {
         super.onCreate();
 
         appInstance = this;
+        SendBird.init(APP_ID, getApplicationContext());
 
 
     }
